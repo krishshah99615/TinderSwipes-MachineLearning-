@@ -8,6 +8,7 @@ import os
 import pyautogui
 import time
 from helper import is_tinder_open, press_dislike, press_like, pred
+
 THRESH = 10.0
 SCREEN_H, SCREEN_W = 1366, 768
 CAP_H, CAP_W = SCREEN_H//2, SCREEN_W//2
